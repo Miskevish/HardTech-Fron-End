@@ -1,0 +1,62 @@
+.tabla-admin-wrapper {
+  background-color: #fff;
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0px 6px 20px rgb(0, 0, 0);
+  overflow-x: auto;
+}
+
+.tabla-admin {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  text-align: center;
+  margin: 0;
+}
+
+.tabla-admin thead {
+  background-color: #8A2BE2;
+  color: #fff;
+  font-family: "Orbitron", sans-serif;
+}
+
+.tabla-admin th, .tabla-admin td {
+  vertical-align: middle;
+}
+
+.admin-img {
+  width: 100px;
+  height: auto;
+  object-fit: contain;
+  border-radius: 10px;
+}
+
+.btn-admin-editar,
+.btn-admin-eliminar {
+  border-radius: 6px;
+  font-weight: bold;
+  font-family: "Orbitron", sans-serif;
+  padding: 6px 12px;
+  transition: all 0.3s ease;
+}
+
+.btn-admin-editar {
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+}
+
+.btn-admin-editar:hover {
+  background-color: #218838;
+  transform: scale(1.05);
+}
+
+.btn-admin-eliminar {
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+}
+
+.btn-admin-eliminar:hover {
+  background-color: #c82333;
+  transform: scale(1.05);
+}
