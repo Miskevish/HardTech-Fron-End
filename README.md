@@ -1,5 +1,7 @@
 🖥️ HardTech - eCommerce de Artículos de Computación
 
+https://hardtech2.netlify.app/
+
 HardTech es un eCommerce moderno y responsivo para la venta de artículos de computación como teclados, mouse, auriculares, gabinetes, monitores y placas de video. Desarrollado con tecnologías web actuales, este proyecto combina una experiencia de usuario fluida con un diseño atractivo y funcional.
 
 🚀 Tecnologías Utilizadas
@@ -32,29 +34,14 @@ Tipografías:
 Orbitron (títulos)
 Montserrat (textos)
 
-📦 Instalación
-
-Cloná el repositorio:
-git clone https://github.com/tuUsuario/hardtech-ecommerce.git
-cd hardtech-ecommerce
-
-Instalá las dependencias:
-
-npm install
-
-Iniciá el servidor de desarrollo:
-
-npm start
-
-Accedé desde tu navegador.
 
 👨‍💻 Autor
 Desarrollado por Ana Paula Soler, Francisco Ariel Diaz, Nicolas Jose Miskevish, Tobias Medrano Tomisc
 Contacto: 
 [anapaulasoler711@gmail.com]
-[ariel0101010101@outlook.com]
+
 [nicomiskevish@gmail.com]
-[totomedrano25@gmail.com]
+
 
 Proyecto con fines educativos y de portafolio.
 
