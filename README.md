@@ -46,4 +46,4 @@ Contacto:
 Proyecto con fines educativos y de portafolio.
 
 
-# HardTech-Fron-End
+# HardTech2
